@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">D7</string>
+    <string name="menu_open">開啟選單</string>
+    <string name="nemu_close">關閉選單</string>
+</resources>
